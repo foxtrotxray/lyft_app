@@ -4,7 +4,8 @@
   "description": "cut out every third letter!",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node index.js"
   },
   "author": "Kyle Collins",
   "devDependencies": {
